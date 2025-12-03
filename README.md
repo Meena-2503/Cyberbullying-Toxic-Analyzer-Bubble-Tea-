@@ -1,4 +1,5 @@
 Cyberbullying Toxic Analyzer 
+
 This project is a simple C-based text analyzer designed to detect toxic or abusive language in text files. It can load input files, remove stopwords, identify toxic words with severity scores, count word frequencies, analyze sentences, and generate a clear analysis report.
 This project was completed as part of Group Coursework, following all required specifications: structured programming, file processing, tokenization, sorting, and reflective documentation.
 
