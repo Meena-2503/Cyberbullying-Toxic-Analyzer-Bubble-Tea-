@@ -6,8 +6,6 @@ This project was completed as part of Group Coursework, following all required s
 
 📂 Repository Structure
 
-File	Description
-
 main.c- Main program source code
 
 main.exe	-Compiled executable (Windows)
@@ -34,7 +32,7 @@ gcc --version
 gcc main.c -o main.exe
 
 
-Run the program:
+3️⃣ Run the program:
 
 ./main.exe
 
@@ -68,10 +66,12 @@ gcc main.c -o main.exe
 A menu-driven interface will appear.
 
 📥 Required Input Files
-File	Purpose
-stopwords.txt	Words to ignore during analysis
-toxicwords.txt	Toxic words with severity levels
-cyber.txt	Input sample from Kaggle cyberbullying dataset
+
+stopwords.txt	-Words to ignore during analysis
+
+toxicwords.txt	-Toxic words with severity levels
+
+cyber.txt	Input -sample from Kaggle cyberbullying dataset
 
 If any file is missing, the program may warn you or fail to analyze the text.
 
@@ -83,17 +83,17 @@ The program generates:
 
 This contains:
 
-Word counts
+- Word counts
 
-Sentence analysis
+- Sentence analysis
 
-Toxic word detection summary
+- Toxic word detection summary
 
-Top word frequencies
+- Top word frequencies
 
-Severity breakdown
+- Severity breakdown
 
-Clean formatted output
+- Clean formatted output
 
 This file is saved automatically after running the program.
 
