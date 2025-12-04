@@ -1,0 +1,54 @@
+=============================================
+          TEXT ANALYSIS REPORT
+=============================================
+
+------------- GENERAL STATISTICS ------------
+Total tokens: 676399
+Unique words: 57905
+Lexical diversity: 0.086
+Sentences detected: 103053
+Average sentence length: 6.56 words
+Average word length: 7.49 characters
+
+------------- TOXICITY ANALYSIS -------------
+Unique toxic words: 35
+Total toxic occurrences: 40413
+Highest severity level: 4
+
+Top 10 toxic words:
+fuck            5896 (severity 3)
+dumb            5384 (severity 1)
+rape            4489 (severity 4)
+nigger          4474 (severity 4)
+gay             4233 (severity 2)
+bully           3756 (severity 1)
+bitch           2070 (severity 3)
+idiot           2042 (severity 1)
+shit            1516 (severity 2)
+hate            1351 (severity 2)
+
+------------ TOP 20 MOST FREQUENT WORDS -----------
+school               8872
+like                 5910
+fuck                 5896
+dumb                 5384
+high                 5258
+people               4892
+bullied              4697
+rape                 4489
+nigger               4474
+gay                  4233
+can                  4026
+don                  3861
+bully                3756
+jokes                3511
+one                  3467
+http                 3305
+co                   3256
+amp                  2963
+get                  2861
+black                2859
+
+=============================================
+End of Report
+=============================================
